@@ -1,0 +1,21 @@
+{
+    "name": "dark-large-monitors-theme",
+    "displayName": "dark-large-monitors-theme",
+    "description": "Dark theme for large screens",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Large Screen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Large Screen-color-theme.json"
+            }
+        ]
+    }
+}
