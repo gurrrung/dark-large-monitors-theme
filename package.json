@@ -2,7 +2,12 @@
     "name": "dark-large-monitors-theme",
     "displayName": "dark-large-monitors-theme",
     "description": "Dark theme for large screens",
+    "publisher": "gurrrung",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gurrrung/dark-large-monitors-theme"
+      },
     "engines": {
         "vscode": "^1.54.0"
     },
